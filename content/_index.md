@@ -9,7 +9,7 @@ thumbnail:
     originName: Unsplash
 actions:
   get-started:
-    url: http://localhost:1313/content
+    url: "https://teholic.github.io//content"
     title: "About"
     icon: "fas book-open"
 ---
