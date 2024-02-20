@@ -4,5 +4,6 @@ title = "my blog Site"                #网站标题
 enableRobotsTXT = true
 enableEmoji = true
 theme = "hinode"
+[module]
 [[module.imports]]
     path = 'github.com/gethinode/hinode'
