@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome! on my blog Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content in Welcome! on my blog Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 15 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>content list</title>
+      <link>http://example.org/content/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/content/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>利率</title>
+      <link>http://example.org/posts/interest-rate/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/interest-rate/</guid>
+      <description> 对象 &amp;nbsp; 首先利率这个东西索涉及到的对象有 中央银行，商业银行，个人，企业&#xA;定义 &amp;nbsp; 利率可以理解为钱的时间成本，分为存款利率和贷款利率，个人存款进商业银行那么个人需要关注存款利率的高低，相应的个人如果需要从银行借钱，需要关注银行的贷款利率&#xA;贷款种类 &amp;nbsp; 政府贷款 企业贷款 居民贷款 地方政府债 经营贷 消费贷 城投债 国债 专项债 无风险利率 &amp;nbsp; 国债因为以国家信用背书，普遍认为不回存在违约风险，所以国债对应的利率就可以认为是对应货币的利率&#xA;一年期利率=一年期国债收益率&#xA;五年期利率=五年期国债收益率 调控手段 &amp;nbsp; 同行隔夜拆借利率是由央行直接控制的，这个短期利率叫做 聯邦基金利率(Fed Funds) 长期利率是通过对国债的公开市场操作（央行直接印钱买卖国债）来间接影响的&#xA;利率和通胀的关系 &amp;nbsp; 利率和通货膨胀成负相关，利率下降会促进消费，促进生产，导致通货膨胀 利率上涨会抑制消费，可以遏制通货膨胀&#xA;利率和债券价格 &amp;nbsp; 负相关，当利率走高时，对应债券的价格走低，反之债券价格走高 </description>
+    </item>
+  </channel>
+</rss>
