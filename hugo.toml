@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = 'zh-cn'
-title = "my blog Site"                #网站标题
+title = "Hello Finance"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "hinode"
