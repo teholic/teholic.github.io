@@ -1,2 +1,1 @@
-# teholic.github.io
-my personal blog website
+# my-hinode-site
