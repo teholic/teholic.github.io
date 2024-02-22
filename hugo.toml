@@ -1,5 +1,5 @@
 baseURL = 'https://example.org/'
-languageCode = 'zh-cn'
+languageCode = 'en-us'
 title = 'Hello QA'
 [[module.imports]]
     path = 'github.com/gethinode/hinode'

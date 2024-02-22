@@ -7,4 +7,8 @@ thumbnail:
     authorURL: https://unsplash.com/@hoanvokim
     origin: https://unsplash.com/photos/ZX6BPboJrYk
     originName: Unsplash
+actions:
+  about:
+    url: "about"
+    title: "About"
 ---

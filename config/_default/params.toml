@@ -9,6 +9,40 @@
         width = 4
         align = "start"
 
+[sections]
+    [sections.tech]
+        title = "Blog"
+        type = "tabs"
+        sort = "date"
+        reverse = true
+        color = "body-tertiary"
+        cols = 3
+        padding = "1"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        style = "border-0 card-zoom card-body-margin"
+        homepage = 3
+        separator = true
+    [sections.finance]
+        title = "Finance"
+        type = "tabs"
+        sort = "date"
+        reverse = true
+        color = "body-tertiary"
+        cols = 3
+        padding = "1"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        style = "border-0 card-zoom card-body-margin"
+        homepage = 3
+        separator = true
+
+themeFont = "Inter"
+themeFontPath = "https://fonts.googleapis.com/css2?family=Inter:wght@200;300;600&display=swap" # external path
+fontSizeBase = "1rem" # assumes the browser default, typically '16px'
+
 [links]
     ewallet="https://www.touchngo.com.my"
     aliexpress="https://aliexpress.ru"

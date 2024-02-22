@@ -1,17 +1,17 @@
 ---
-author: xhddxiin
 title: About
+description: 这里是一些关于我的。。。
 date: 2024-01-01
-tags: []
-draft: false
-description: a brief introduction...
+updated: 2024-01-08
+showComments: false
 thumbnail:
   url: /img/cloud.jpg
   author: OPEN AI
-  authorURL: 
-  origin: 
+  authorURL:
+  origin:
   originName: Unsplash
 ---
+
 ## what I have own
 3 years experience in e-wallet payment in [Touch'n Go Digital]({{<param "links.ewallet">}}) \
 2+ years experience in online business logistics && settlement in [Aliexpress]({{<param "links.aliexpress">}}) \
