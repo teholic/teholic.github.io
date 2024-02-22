@@ -8,7 +8,7 @@ thumbnail:
   url: /img/coding.jpg
   author: Christopher Gower
   authorURL: 
-  origin: https://unsplash.com/photos/m_HRfLhgABo
+  originURL: https://unsplash.com/photos/m_HRfLhgABo
   originName: Unsplash
 ---
 ## 我的一点想法
