@@ -1,0 +1,15 @@
+[home]
+    sections = ["tech", "finance"]
+    fullCover = false
+    centerHeadline = false
+    style = ""
+    [home.feature]
+        orientation = "horizontal"
+        color = "primary"
+        width = 4
+        align = "start"
+
+[links]
+    ewallet="https://www.touchngo.com.my"
+    aliexpress="https://aliexpress.ru"
+    picture="https://unsplash.com/photos/ZX6BPboJrYk"
