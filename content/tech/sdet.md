@@ -7,9 +7,9 @@ description: "  "
 thumbnail:
   url: /img/coding.jpg
   author: Christopher Gower
-  authorURL: 
+  authorURL:
+  origin: Unsplash
   originURL: https://unsplash.com/photos/m_HRfLhgABo
-  originName: Unsplash
 ---
 ## 我的一点想法
 测试开发首先是测试，其次才是开发，在工作中对于项目和产品质量的把控才是第一位的， 产品的用例集，项目的测试分析文档才是QA最核心的数字资产，这些可

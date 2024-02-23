@@ -39,11 +39,6 @@
         homepage = 3
         separator = true
 
-themeFont = "Inter"
-themeFontPath = "https://fonts.googleapis.com/css2?family=Inter:wght@200;300;600&display=swap" # external path
-fontSizeBase = "1rem" # assumes the browser default, typically '16px'
-
 [links]
     ewallet="https://www.touchngo.com.my"
     aliexpress="https://aliexpress.ru"
-    picture="https://unsplash.com/photos/ZX6BPboJrYk"

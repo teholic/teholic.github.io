@@ -13,8 +13,10 @@ thumbnail:
 ---
 
 ## 个人经历
-3年的马来西亚电子钱包APP支付测试经验 👉 [**Touch'n Go Digital**]({{<param "links.ewallet">}}) \
-2+年跨境电商平台速卖通的物流和结算测试经验 👉 [**Aliexpress**]({{<param "links.aliexpress">}}) \
+3年的马来西亚电子钱包APP支付测试经验 👉 
+{{< link name=ewallet cue=true tab=true >}}**Touch'n Go Digital**{{< /link >}} \
+2+年跨境电商平台速卖通的物流和结算测试经验 👉 
+{{< link name=aliexpress cue=true tab=true >}}**Aliexpress**{{< /link >}} \
 4+年接口自动化测试经验 \
 3+年测试效能建设，测试工具开发，测试平台搭建，持续测试 \
 3+年测试专项经验，测试环境建设，巡检，资损防控建设，监控
