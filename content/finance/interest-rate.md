@@ -2,7 +2,7 @@
 author: 'xhddxiin'
 title: 利率
 date: 2023-08-15
-draft: false
+draft: true
 description: 关于利率
 thumbnail:
   url: /img/fund-rate.jpg
