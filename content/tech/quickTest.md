@@ -1,13 +1,13 @@
 ---
 author: 'xhddxiin'
 title: Guideline to build a simple CT
-date: 2024-02-28
+date: 2024-02-26
 draft: false
 description: "this is a simple demo"
 thumbnail:
   url: /img/enjoy.jpg
   author: Shaurya Sagar
-  authorURL: https://unsplash.com/@shauryasagar
+  authorURL:
   origin: Unsplash
   originURL: https://unsplash.com/photos/A4wa3SpyOsg
 ---
