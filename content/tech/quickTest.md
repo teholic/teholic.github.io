@@ -61,7 +61,7 @@ here is the preparation that need to know and will use in the follow steps\
    {{< image src="img/jenkins-allure-config.png" class="rounded" >}}
    {{< image src="img/jenkins-node-config.png" class="rounded" >}}
 
-## 5.create an item and config
+## create an item and config
 
 in the jenkins dashboard, click to create a new item -->freestyle project -->config
 - Source Code Management
