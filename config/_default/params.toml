@@ -42,3 +42,7 @@
 [links]
     ewallet="https://www.touchngo.com.my"
     aliexpress="https://aliexpress.ru"
+
+[main]
+    #disable footer powered by...
+    endorse = false
