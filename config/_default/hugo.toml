@@ -1,1 +1,3 @@
 timeout = "180s"
+#disable footer powered by...
+enableGitInfo = false
